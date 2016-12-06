@@ -1,1 +1,1 @@
-This is just a simple mandlebrot viewer for me to learn a bit of Swift.
+This is just a simple mandelbrot viewer for me to learn a bit of Swift.
